@@ -2,7 +2,7 @@
 
 ### `README.md`
 
-# Kubernetes MongoDB Stack 💾
+# Kubernetes MongoDB Stack 
 
 This project serves as a complete and practical example of a DevOps application, demonstrating how to deploy and manage a **MongoDB** database and its graphical user interface **Mongo-Express** on a **Kubernetes** platform. The project aims to showcase best practices for managing configurations, sensitive data, and persistent storage.
 
@@ -70,7 +70,7 @@ Each YAML file in this project has a specific role:
   * **`deployment2.yaml`:** Defines how to deploy the Mongo-Express UI, linking it to the `Secret` and `ConfigMap`.
   * **`svc2.yaml`:** Creates a **`Service`** of type `LoadBalancer` to expose Mongo-Express to external traffic.
 
-## 🗑️ How to Delete the Project
+##  How to Delete the Project
 
 To remove all project resources, run the following command:
 
