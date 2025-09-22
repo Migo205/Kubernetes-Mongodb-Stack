@@ -1,6 +1,5 @@
 
 
-### `README.md`
 
 # Kubernetes MongoDB Stack 
 
